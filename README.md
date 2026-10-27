@@ -1,4 +1,4 @@
-IoT-Based Fire Detection and Monitoring System using TinyML
+**IoT-Based Fire Detection and Monitoring System using TinyML**
 
 An intelligent, real-time fire detection and monitoring system designed to provide early warnings and minimize false alarms by leveraging edge AI (TinyML), multi-sensor data fusion, an ESP32 microcontroller, and a custom Flutter mobile application.
 
